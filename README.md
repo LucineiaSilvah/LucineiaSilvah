@@ -10,6 +10,7 @@ _Sou Graduada em gestão de tecnologia da informação pela instituição Uniass
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
 ### Confira meu Projetos em:
