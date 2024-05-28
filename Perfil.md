@@ -1,5 +1,5 @@
 ![Background](https://github.com/LucineiaSilvah/LucineiaSilvah/assets/90657609/3e12a3b9-99d6-4dfc-ae58-2e03ae27e81a)
-<div style="display: inline_block " align="center" ><br>
+<div style="display: inline_block, color:purple" align="center" ><br>
   
   # Lucineia Silvah
 ## Seja Bem-Vinda(o) ao meu Perfil  
