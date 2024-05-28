@@ -1,4 +1,4 @@
-![Background](https://unsplash.com/pt-br/fotografias/gato-preto-no-fundo-cor-de-rosa-cfKwE7k9qqA)
+![Background](https://github.com/LucineiaSilvah/LucineiaSilvah/assets/90657609/3e12a3b9-99d6-4dfc-ae58-2e03ae27e81a)
 <div style="display: inline_block " align="center" ><br>
   
   # Lucineia Silvah
