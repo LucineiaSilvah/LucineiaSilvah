@@ -2,9 +2,9 @@
 <div style="display: inline_block, color:purple" align="center" ><br>
   
 <img src="https://github.com/LucineiaSilvah/LucineiaSilvah/assets/90657609/af3b764e-366e-4d29-895b-a222e164406d">
-## Seja Bem-Vinda(o) ao meu Perfil  
-_Sou Graduada em gestão de tecnologia da informação pela instituição Uniasselvi, Recentemente terminei minha especialização em desenvolvimento front-end ministrado pela Oracle em parceria com Alura, sou amante da tecnologia e busco uma oportunidade para ingressar na area e seguir carreira_
 
+## Seja Bem-Vinda(o) ao meu Perfil  
+_Sou Graduada em gestão de tecnologia da informação pela instituição Uniasselvi 2023 onde obtive conhecimentos em análise de sistemas, segurançada informação e gerenciamento de projetos além das principais metodologias ágeis, contudo foi no desenvolvimento front-end que encontrei meu lugar, onde é possível transformar arte em produto,com interfaces intutivas e atraentes,estou ansiosa pars fazer parte de projetos inovadores
 ## Minhas habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
