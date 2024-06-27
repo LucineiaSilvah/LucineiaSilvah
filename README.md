@@ -16,7 +16,7 @@ estou ansiosa para fazer parte de projetos inovadores!!!
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
-<img src="https://github.com/LucineiaSilvah/LucineiaSilvah/assets/90657609/412a3f28-7264-42de-b2a2-e05bd992de49")>
+<img src="https://github.com/LucineiaSilvah/LucineiaSilvah/assets/90657609/412a3f28-7264-42de-b2a2-e05bd992de49">
 ### Confira meu Projetos em:
 [![Portifólio](https://img.shields.io/badge/Meu_Portifólio-929?style=for-the-badge&logo)](https://portifolio-lsv2.netlify.app/)
 
