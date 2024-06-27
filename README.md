@@ -4,7 +4,7 @@
 <img src="https://github.com/LucineiaSilvah/LucineiaSilvah/assets/90657609/af3b764e-366e-4d29-895b-a222e164406d">
 
 ## Seja Bem-Vinda(o) ao meu Perfil  
-_Sou Graduada em gestão de tecnologia da informação pela instituição Uniasselvi (2023), onde obtive conhecimentos em análise de sistemas, segurança da informação e gerenciamento de projetos além das principais metodologias ágeis, contudo foi no desenvolvimento front-end que encontrei meu lugar, onde é possível transformar arte em produto,com interfaces intuitivas e atraentes.
+Sou Graduada em gestão de tecnologia da informação pela instituição Uniasselvi (2023), onde obtive conhecimentos em análise de sistemas, segurança da informação e gerenciamento de projetos além das principais metodologias ágeis, contudo foi no desenvolvimento front-end que encontrei meu lugar, onde é possível transformar arte em produto,com interfaces intuitivas e atraentes.
 estou ansiosa para fazer parte de projetos inovadores!!!
 
 ## Minhas habilidades
@@ -16,6 +16,7 @@ estou ansiosa para fazer parte de projetos inovadores!!!
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
+<img src="https://github.com/LucineiaSilvah/LucineiaSilvah/assets/90657609/412a3f28-7264-42de-b2a2-e05bd992de49")>
 ### Confira meu Projetos em:
 [![Portifólio](https://img.shields.io/badge/Meu_Portifólio-929?style=for-the-badge&logo)](https://portifolio-lsv2.netlify.app/)
 
