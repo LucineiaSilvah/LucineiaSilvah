@@ -3,8 +3,8 @@
     border:2px solid #ffd700;
   }
 </style>
-<div class='imagem'>
-![Background](https://github.com/LucineiaSilvah/LucineiaSilvah/assets/90657609/3e12a3b9-99d6-4dfc-ae58-2e03ae27e81a)
+<div >
+<img class='imagem' src="https://github.com/LucineiaSilvah/LucineiaSilvah/assets/90657609/3e12a3b9-99d6-4dfc-ae58-2e03ae27e81a">
 </div>
 <div style="display: inline_block, color:purple" align="center" ><br>
   
