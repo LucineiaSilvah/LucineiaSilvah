@@ -1,6 +1,5 @@
 
 
-<img style="border: 5px solid #ffd700; border-radius: 10px; padding: 10px;" src="https://github.com/LucineiaSilvah/LucineiaSilvah/assets/90657609/3e12a3b9-99d6-4dfc-ae58-2e03ae27e81a">
 
 <div style="display: inline_block, color:purple" align="center" ><br>
   
